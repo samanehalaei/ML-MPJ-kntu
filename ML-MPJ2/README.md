@@ -104,3 +104,9 @@ Diagnose heart disease using the Bayes classification algorithm. After dividing 
      - Use the Gaussian Naive Bayes classifier for prediction.
    - Evaluation:
      - Evaluate the classifier using metrics like accuracy, classification report, and confusion matrix.
+
+ 3. Macro vs. Micro Averaging:
+   - Macro Averaging:
+     - Computes metrics independently for each class and then takes the average.
+   - Micro Averaging:
+     - Aggregates contributions of all classes to compute the average metric, which can provide a better measure for imbalanced datasets.
