@@ -11,7 +11,6 @@ This project explores the implementation and evaluation of advanced classificati
 4. [Dependencies](#dependencies)
 5. [Setup Instructions](#setup-instructions)
 6. [Usage](#usage)
-7. [References](#references)
 
 ## Introduction
 
